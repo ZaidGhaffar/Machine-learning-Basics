@@ -22,3 +22,5 @@ app/Loading_models.ipynb
 - app/First_model/First_model.py
 ```
 
+### Other things you might needs to Learn
+- PIL for Image
