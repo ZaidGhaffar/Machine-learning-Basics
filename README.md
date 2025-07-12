@@ -1,8 +1,8 @@
 # Guide 
 In this Repo We have Provided all the codes From loading Models from transformers(along with thier output), Building , monitoring & deploying modles from scratch
 
+![Hugging-face](utils/Third.png)
 
-![Baiscs](utils/First.jpg)
 
 ### First Read through basics 
 ```
@@ -16,7 +16,7 @@ app/Loading_models.ipynb
 ```
 
 
-![Hugging-face](utils/Third.png)
+![Baiscs](utils/First.jpg)
 ### Than move on Advanced Stuff
 ```
 - app/First_model/First_model.py
